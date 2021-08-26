@@ -1,0 +1,1 @@
+This is our ongoing minecraft survival server
