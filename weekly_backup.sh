@@ -1,4 +1,5 @@
 #!/bin/bash
+~/.keychain/$HOSTNAME-sh
 cd /home/luke/WoodruffMinecraftServer/;
 cp -r /opt/minecraft/survival /home/luke/WoodruffMinecraftServer/ ;
 /usr/bin/git add . ;
