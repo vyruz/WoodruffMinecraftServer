@@ -1,5 +1,8 @@
 #!/bin/bash
-~/.keychain/$HOSTNAME-sh
+
+eval $(ssh-agent)
+ssh-add /home/luke/.ssh/vyruz-git
+
 cd /home/luke/WoodruffMinecraftServer/;
 cp -r /opt/minecraft/survival /home/luke/WoodruffMinecraftServer/ ;
 /usr/bin/git add . ;
