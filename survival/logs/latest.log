@@ -1,35 +1,5 @@
-[16:38:37] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16:38:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:38:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:38:38] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:38:38] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:38:38] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:38:38] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[16:38:39] [Worker-Main-4/INFO]: Loaded 7 recipes
-[16:38:39] [Worker-Main-4/INFO]: Loaded 1137 advancements
-[16:38:41] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[16:38:41] [Server thread/INFO]: Loading properties
-[16:38:41] [Server thread/INFO]: Default game type: SURVIVAL
-[16:38:41] [Server thread/INFO]: Generating keypair
-[16:38:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:38:41] [Server thread/INFO]: Using epoll channel type
-[16:38:41] [Server thread/INFO]: Preparing level "world"
-[16:38:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:38:42] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[16:38:42] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[16:38:42] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[16:38:43] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[16:38:43] [Worker-Main-4/INFO]: Preparing spawn area: 2%
-[16:38:44] [Worker-Main-6/INFO]: Preparing spawn area: 4%
-[16:38:44] [Worker-Main-4/INFO]: Preparing spawn area: 9%
-[16:38:45] [Worker-Main-4/INFO]: Preparing spawn area: 37%
-[16:38:45] [User Authenticator #1/INFO]: UUID of player Vyruzx is 4357d8fc-e353-414b-a0ad-a8785d221f9a
-[16:38:45] [Worker-Main-4/INFO]: Preparing spawn area: 58%
-[16:38:46] [Worker-Main-6/INFO]: Preparing spawn area: 91%
-[16:38:46] [Server thread/INFO]: Time elapsed: 5229 ms
-[16:38:46] [Server thread/INFO]: Done (5.290s)! For help, type "help"
-[16:38:47] [Server thread/INFO]: Vyruzx[/192.168.0.83:50128] logged in with entity id 478 at (1785.4524778125042, 77.5, 3058.6700297437155)
-[16:38:47] [Server thread/INFO]: Vyruzx joined the game
-[16:38:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
-[16:38:55] [Server thread/INFO]: Vyruzx lost connection: Disconnected
-[16:38:55] [Server thread/INFO]: Vyruzx left the game
+[10:29:50] [User Authenticator #2/INFO]: UUID of player Vyruzx is 4357d8fc-e353-414b-a0ad-a8785d221f9a
+[10:29:51] [Server thread/INFO]: Vyruzx[/192.168.0.83:61363] logged in with entity id 5977 at (1785.4524778125042, 77.5, 3058.6700297437155)
+[10:29:51] [Server thread/INFO]: Vyruzx joined the game
+[10:30:23] [Server thread/INFO]: Vyruzx lost connection: Disconnected
+[10:30:23] [Server thread/INFO]: Vyruzx left the game
