@@ -1,1 +1,5 @@
-[01:30:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@433b5e8[id=<null>,name=INETDataSurveyDN,properties={},legacy=false] (/163.172.139.143:56334) lost connection: Disconnected
+[05:11:42] [User Authenticator #6/INFO]: UUID of player Xxkih is 48bb1a17-3f26-4349-83a5-1c202fd7a441
+[05:11:42] [Server thread/INFO]: Xxkih[/207.244.236.144:58652] logged in with entity id 73754 at (1766.5, 78.0, 3054.5)
+[05:11:42] [Server thread/INFO]: Xxkih joined the game
+[05:11:47] [Server thread/INFO]: Xxkih lost connection: Disconnected
+[05:11:47] [Server thread/INFO]: Xxkih left the game
