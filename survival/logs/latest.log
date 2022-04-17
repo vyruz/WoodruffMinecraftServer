@@ -1,5 +1,1 @@
-[17:24:42] [User Authenticator #3/INFO]: UUID of player RinShinoo is 9038796b-fc91-4f23-aa97-8fec8ee7bf6e
-[17:24:42] [Server thread/INFO]: RinShinoo[/35.168.60.231:56751] logged in with entity id 16780 at (1775.5, 78.0, 3059.5)
-[17:24:42] [Server thread/INFO]: RinShinoo joined the game
-[17:24:51] [Server thread/INFO]: RinShinoo lost connection: Disconnected
-[17:24:51] [Server thread/INFO]: RinShinoo left the game
+[09:05:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@411108a[id=<null>,name=INETDataSurvey7Y,properties={},legacy=false] (/163.172.139.143:53470) lost connection: Disconnected
