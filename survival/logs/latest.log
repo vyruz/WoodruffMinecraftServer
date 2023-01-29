@@ -1,1 +1,3 @@
-[16:28:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@25cfd2ee[id=<null>,name=ServerSmoocher83,properties={},legacy=false] (/193.32.249.132:41306) lost connection: Disconnected
+[00:06:42] [User Authenticator #3/INFO]: Disconnecting /216.131.118.25:62252: Failed to verify username!
+[00:06:42] [User Authenticator #3/ERROR]: Username 'Espoleta' tried to join with an invalid session
+[00:06:42] [Server thread/INFO]: /216.131.118.25:62252 lost connection: Failed to verify username!
