@@ -1,3 +1,1 @@
-[00:06:42] [User Authenticator #3/INFO]: Disconnecting /216.131.118.25:62252: Failed to verify username!
-[00:06:42] [User Authenticator #3/ERROR]: Username 'Espoleta' tried to join with an invalid session
-[00:06:42] [Server thread/INFO]: /216.131.118.25:62252 lost connection: Failed to verify username!
+[15:29:58] [Server thread/INFO]: /185.25.206.232:34278 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: readerIndex(7) + length(1) exceeds writerIndex(7): PooledUnsafeDirectByteBuf(ridx: 7, widx: 7, cap: 7)
